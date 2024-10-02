@@ -21,7 +21,7 @@ Feel free to explore my repositories & the following socials to see more of my w
 I'm always open to collaborating on exciting projects or discussing innovative ideas. You can reach me via:
 
 - Email: bhusanursatwik@gmail.com
-- LinkedIn: https://www.linkedin.com/in/satwik-bhusanur-11081427a/
-- Instagram: https://www.instagram.com/frontend.with.satwik/
+- LinkedIn: https://www.linkedin.com/in/satwikbhusanur/
+- Instagram: https://www.instagram.com/satwik.bhusanur
 
 Let's connect and create something amazing together! 🚀
